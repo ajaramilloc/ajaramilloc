@@ -2,8 +2,8 @@
 
 ```py
 ajaramilloc = {
-  code: [Python, HTML, CSS, PHP],
-  learning: [Java, C++, Kotlin],
+  tech stack: [Python, HTML, CSS, PHP],
+  to learn: [Java, C++, Kotlin],
   architecture: [MVC],
   specifications: {     
                      languages: ["spanish", "english"],
