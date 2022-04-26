@@ -6,7 +6,7 @@
 
 ```py
 ajaramilloc = {
-  🔧tech stack: [Python, HTML, CSS, PHP],
+  🔧tech stack: [Python, HTML, CSS, PHP, JS],
   🎯to learn: [Java, C++, Kotlin],
   💻architecture: [MVC],
   🛠 specifications: {     
