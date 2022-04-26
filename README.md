@@ -19,7 +19,7 @@ ajaramilloc = {
 ```
 <hr>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=ajaramilloc&show_icons=true&theme=algolia)](https://github.com/ajaramilloc/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=ajaramilloc&show_icons=true&theme=algolia)]
 
 <hr>
 
