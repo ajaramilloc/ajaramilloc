@@ -1,18 +1,20 @@
 ### Hi, I'm Alejandro 👋
 
+<p><em>Computer Science student at <a href="https://uniandes.edu.co">Universidad de los Andes</a>. :round_pushpin: Bogotá, Colombia</br><em>
+
 <hr>
 
 ```py
 ajaramilloc = {
-  tech stack: [Python, HTML, CSS, PHP],
-  to learn: [Java, C++, Kotlin],
-  architecture: [MVC],
-  specifications: {     
-                     languages: ["spanish", "english"],
-                     occupation: "software engineering student",
-                     dream job: "software architect"
+  🔧tech stack: [Python, HTML, CSS, PHP],
+  🎯to learn: [Java, C++, Kotlin],
+  💻architecture: [MVC],
+  🛠 specifications: {     
+                     🎭languages: ["spanish", "english"],
+                     📕occupation: "computer science student",
+                     🚀dream job: "software architect"
                    },
-  challenge: "Getting ready for code marathons"
+  🏆challenge: "Getting ready for code marathons"
 }
 ```
 <hr>
@@ -29,6 +31,6 @@ ajaramilloc = {
 
 <p align="center">
 
-[<img src="https://img.shields.io/badge/Email-a.jaramilloc2%40uniandes.edu.co-blue">](mailto:a.jaramilloc2@uniandes.edu.co)</a>
+:mailbox_with_mail:[<img src="https://img.shields.io/badge/Email-a.jaramilloc2%40uniandes.edu.co-blue">](mailto:a.jaramilloc2@uniandes.edu.co)</a>
 
 </p>
