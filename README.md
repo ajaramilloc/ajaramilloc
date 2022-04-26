@@ -19,11 +19,11 @@ ajaramilloc = {
 ```
 <hr>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=ajaramilloc&show_icons=true&theme=algolia)]
+![Alejandros's Stats](https://github-readme-stats.vercel.app/api?username=ajaramilloc&show_icons=true&theme=algolia)
 
 <hr>
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaramilloc&layout=compact&theme=algolia)]
+![Alejandro's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaramilloc&layout=compact&theme=algolia)
 
 <hr>
 
