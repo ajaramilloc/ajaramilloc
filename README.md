@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**ajaramilloc/ajaramilloc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```py
+ajaramilloc = {
+  code: [Python, HTML, CSS, PHP],
+  learning: [Java, C++, Kotlin],
+  architecture: [MVC],
+  specifications: {     
+                        languages: ["spanish", "english"],
+                        occupation: "software engineering student",
+                        dream job: "software architect"
+                      },
+  challenge: "Getting ready for code marathons"
+}
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
