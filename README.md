@@ -23,7 +23,7 @@ ajaramilloc = {
 
 <hr>
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaramilloc&layout=compact&theme=algolia)](https://github.com/ajaramilloc/github-readme-stats)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaramilloc&layout=compact&theme=algolia)]
 
 <hr>
 
