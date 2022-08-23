@@ -6,11 +6,10 @@
 
 ```py
 ajaramilloc = {
-  🔧tech stack: [Python, HTML, CSS, PHP, JS],
-  🎯to learn: [Java, C++, Kotlin],
-  💻architecture: [MVC],
+  🔧tech stack: [Python, Java, C, POO],
+  🎯to learn: [C++, Kotlin, GO],
   🛠 specifications: {     
-                     🎭languages: ["spanish", "english"],
+                     🎭languages: ["spanish", "english", "french"],
                      📕occupation: "computer science student",
                      🚀dream job: "software architect"
                    },
