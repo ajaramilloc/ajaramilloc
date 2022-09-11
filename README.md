@@ -6,7 +6,7 @@
 
 ```py
 ajaramilloc = {
-  🔧tech stack: [Python, Java, C, POO],
+  🔧tech stack: [Python, Java, C, JavaScript],
   🎯to learn: [C++, Kotlin, GO],
   🛠 specifications: {     
                      🎭languages: ["spanish", "english", "french"],
