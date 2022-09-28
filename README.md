@@ -7,7 +7,7 @@
 ```py
 ajaramilloc = {
   🔧tech stack: [Python, Java, C, JavaScript],
-  🎯to learn: [C++, Kotlin, GO],
+  🎯to learn: [C++, Kotlin, GO, Node.js],
   🛠 specifications: {     
                      🎭languages: ["spanish", "english", "french"],
                      📕occupation: "computer science student",
