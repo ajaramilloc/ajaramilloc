@@ -1,35 +1,27 @@
-### Hi, I'm Alejandro 👋
+# 💫 About Me:
+Computer and Systems Engineering Student<br>Data Lover<br>Learning machine learning and data analysis<br>Next Goal -> My own start up
 
-<p><em>Computer Science student at <a href="https://uniandes.edu.co">Universidad de los Andes</a>. :round_pushpin: Bogotá, Colombia</br><em>
 
-<hr>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/alejandro-jaramillo-castellanos) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20808721) 
 
-```py
-ajaramilloc = {
-  🔧tech stack: [Python, Java, C, JavaScript],
-  🎯to learn: [C++, Kotlin, GO, Node.js],
-  🛠 specifications: {     
-                     🎭languages: ["spanish", "english", "french"],
-                     📕occupation: "computer science student",
-                     🚀dream job: "software architect"
-                   },
-  🏆challenge: "Getting ready for code marathons"
-}
-```
-<hr>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ajaramilloc&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ajaramilloc&theme=vue-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaramilloc&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-![Alejandro´s's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaramilloc&show_icons=true&theme=tokyonight)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ajaramilloc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
-<hr>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-![Alejandro's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaramilloc&layout=compact&theme=tokyonight)
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-<hr>
+---
+[![](https://visitcount.itsvg.in/api?id=ajaramilloc&icon=0&color=1)](https://visitcount.itsvg.in)
 
-### Feel free to contact me,
-
-<p align="center">
-
-:mailbox_with_mail:[<img src="https://img.shields.io/badge/Email-a.jaramilloc2%40uniandes.edu.co-blue">](mailto:a.jaramilloc2@uniandes.edu.co)</a>
-
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
