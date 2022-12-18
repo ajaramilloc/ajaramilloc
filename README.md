@@ -18,9 +18,6 @@ Computer and Systems Engineering Student<br>Data Lover<br>Learning machine learn
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ajaramilloc&icon=0&color=1)](https://visitcount.itsvg.in)
 
