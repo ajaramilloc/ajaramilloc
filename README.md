@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer and Systems Engineering Student<br>Data Lover<br>Learning machine learning and data analysis<br>Next Goal -> My own start up
+Computer and Systems Engineering Student at Los Andes University<br>Game Developer<br>Unity Learner<br>Next Goal -> My own start up
 
 
 ## 🌐 Socials:
